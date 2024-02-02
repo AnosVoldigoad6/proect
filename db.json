@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "name": "Employees",
+      "from": "15.01.202",
+      "to": "15.08.2024",
+      "amount": "22500",
+      "spent": "2000",
+      "status": "inActive",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Office expensen",
+      "from": "22.10.2024",
+      "to": "22.10.2024",
+      "amount": "26000",
+      "spent": "25000",
+      "status": true
+    },
+    {
+      "id": "3",
+      "name": "Tax",
+      "from": "24.01.2024",
+      "to": "23.02.2024",
+      "amount": "100000",
+      "spent": "3705",
+      "status": false
+    },
+    {
+      "id": "4",
+      "name": "Marketing",
+      "from": "24.01.2023",
+      "to": "24.12.2023",
+      "amount": "50000",
+      "spent": "500",
+      "status": false
+    }
+  ]
+}
